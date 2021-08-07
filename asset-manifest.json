@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dualshock/static/css/main.77f7876d.chunk.css",
+    "main.js": "/dualshock/static/js/main.925bdbfd.chunk.js",
+    "main.js.map": "/dualshock/static/js/main.925bdbfd.chunk.js.map",
+    "runtime-main.js": "/dualshock/static/js/runtime-main.a1d1b7da.js",
+    "runtime-main.js.map": "/dualshock/static/js/runtime-main.a1d1b7da.js.map",
+    "static/css/2.818011ed.chunk.css": "/dualshock/static/css/2.818011ed.chunk.css",
+    "static/js/2.70c33235.chunk.js": "/dualshock/static/js/2.70c33235.chunk.js",
+    "static/js/2.70c33235.chunk.js.map": "/dualshock/static/js/2.70c33235.chunk.js.map",
+    "static/js/3.3a54b8da.chunk.js": "/dualshock/static/js/3.3a54b8da.chunk.js",
+    "static/js/3.3a54b8da.chunk.js.map": "/dualshock/static/js/3.3a54b8da.chunk.js.map",
+    "index.html": "/dualshock/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/dualshock/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.77f7876d.chunk.css.map": "/dualshock/static/css/main.77f7876d.chunk.css.map",
+    "static/js/2.70c33235.chunk.js.LICENSE.txt": "/dualshock/static/js/2.70c33235.chunk.js.LICENSE.txt",
+    "static/media/ManPs.9fa85696.png": "/dualshock/static/media/ManPs.9fa85696.png",
+    "static/media/logo.2b4f4c2e.jpg": "/dualshock/static/media/logo.2b4f4c2e.jpg",
+    "static/media/logo.6ce24c58.svg": "/dualshock/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d1b7da.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.70c33235.chunk.js",
+    "static/css/main.77f7876d.chunk.css",
+    "static/js/main.925bdbfd.chunk.js"
+  ]
+}
